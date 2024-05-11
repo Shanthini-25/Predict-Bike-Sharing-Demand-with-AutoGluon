@@ -32,13 +32,13 @@ hpo | num_leaves: lower=26, upper=66 | dropout_prob: 0.0, 0.5	 | num_boost_round
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 TODO: Add your explanation
